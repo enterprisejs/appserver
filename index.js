@@ -11,5 +11,5 @@ exports.close = function() {
 }
 
 if(!module.parent) {
-  listen(19090);
+  exports.listen(19090);
 }
