@@ -8,6 +8,7 @@
     },
     "main" : "index.js",
     "dependencies" : {
+        "seaport": "~0.8.0",
         "airport" : "*"
     },
     "engines" : {
