@@ -1,0 +1,16 @@
+{
+    "name" : "appserver",
+    "description" : "Force legacy",
+    "version" : "0.4.3",
+    "repository" : {
+        "type" : "git",
+        "url" : "git://github.com/enterprisejs/appserver.git"
+    },
+    "main" : "index.js",
+    "dependencies" : {
+        "airport" : "*"
+    },
+    "engines" : {
+        "node" : ">=0.6.0"
+    }
+}
